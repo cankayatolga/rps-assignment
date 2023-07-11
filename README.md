@@ -1,0 +1,1 @@
+So we made a fruitful assignment by making a rock paper scissors game. However there is still an error I couldn't figure out how to get away. The button of new game is not functional somehow but it will be dealt with.
